@@ -1,2 +1,2 @@
 #!/bin/bash
-groups -l $USER
+groups $USER | tr ' ' ','
