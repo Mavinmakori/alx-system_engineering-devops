@@ -1,1 +1,1 @@
-a script that removes all letters c and C from inpu
+a script that reverse its input.
