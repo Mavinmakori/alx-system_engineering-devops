@@ -1,1 +1,1 @@
-script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
